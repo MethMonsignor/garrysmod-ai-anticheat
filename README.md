@@ -55,10 +55,6 @@
 
 - ac_ban_check.lua blocks reconnect attempts for banned SteamIDs.
 
-## Installation Guide (Step-by-Step)
-
-- Follow these numbered steps to get the AI anti-cheat up and running on your machine and GMod server. Paths assume you cloned into ~/garrysmod-ai-anticheat/.
-
 ## Prerequisites
 
 - Python 3.8+ installed and on your PATH.
