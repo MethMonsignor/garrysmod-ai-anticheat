@@ -1,6 +1,6 @@
 # garrysmod-ai-anticheat
 
-## End-to-end AI-driven anti-cheat for Garry’s Mod
+## End to end AI driven anti cheat for Garry’s Mod
 
 - Collects real & synthetic gameplay data  
 - Extracts per tick features (speed, ang rate, jitter, etc.)  
