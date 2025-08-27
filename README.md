@@ -1,6 +1,13 @@
 # garrysmod-ai-anticheat
 
-An end to end AI driven anti cheat system for Garry’s Mod. Collects real and synthetic gameplay data, extracts per tick features, trains a RandomForest + IsolationForest ensemble, and integrates a Flask prediction API into your GMod server for instant SteamID perm-bans and kicks.
+## End-to-end AI-driven anti-cheat for Garry’s Mod
+
+- Collects real & synthetic gameplay data  
+- Extracts per tick features (speed, ang rate, jitter, etc.)  
+- Trains RandomForest & IsolationForest models  
+- Exposes a Flask-based `/predict` API  
+- Integrates with GMod for instant SteamID perm bans & kicks
+
 
 ## Features
 
