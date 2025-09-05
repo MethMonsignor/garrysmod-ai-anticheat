@@ -105,8 +105,6 @@ Activate it:
 
 - Example clean play generator in synthetic_generator.py is a stub—replace with your own or extend realism.
 
-- No unit tests yet; all code is untested in production.
-
 - engine.GetModules() in Lua is hypothetical replace with actual module listing logic if available. `Currently updating`
 
 - Model explainability and appeal UI are TODOs.
