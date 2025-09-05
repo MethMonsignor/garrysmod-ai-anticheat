@@ -107,7 +107,7 @@ Activate it:
 
 - No unit tests yet; all code is untested in production.
 
-- engine.GetModules() in Lua is hypothetical replace with actual module listing logic if available. 'Currently updating'
+- engine.GetModules() in Lua is hypothetical replace with actual module listing logic if available. `Currently updating`
 
 - Model explainability and appeal UI are TODOs.
 
